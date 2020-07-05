@@ -1,7 +1,7 @@
 # ANANAX ANALYTICAL CIRCULAR
 ## Post Processing details :
 ### The aim of this box :
-*MADIWHAX solver for the noise acoustic calculation in the air intake/bypass (to obtain frequencies)*
+*Allows the generation of the attenuation matrix (PIFF & PID calculus)*
 
 ### The left side :
 
