@@ -1,7 +1,7 @@
 # ANANAX ANALYTICAL CIRCULAR
 ## Post Processing details :
 ### The aim of this box :
-*Allows among other things the creation of initialization variables, environment variables or even structure test and the input XML file reading.*
+*MADIWHAX solver for the noise acoustic calculation in the air intake/bypass (to obtain frequencies)*
 
 ### The left side :
 
