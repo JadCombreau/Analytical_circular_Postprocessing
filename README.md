@@ -1,10 +1,10 @@
 # ANANAX ANALYTICAL CIRCULAR
-## Initialization details :
+## Post Processing details :
 
 ### The left side :
 
-![Workflowleft](https://user-images.githubusercontent.com/45098441/72735505-3c403800-3b9c-11ea-9b80-446dedf0615e.jpeg)
+![Workflowleft](https://user-images.githubusercontent.com/45098441/86544126-a703e680-bf24-11ea-998d-981204cad066.JPG)
 
 ### And the right side :
 
-![Workflowright](https://user-images.githubusercontent.com/45098441/72735511-3f3b2880-3b9c-11ea-9771-076188e4fe7a.jpeg)
+![Workflowright](https://user-images.githubusercontent.com/45098441/86544127-a79c7d00-bf24-11ea-87cd-4d665ef611f9.JPG)
